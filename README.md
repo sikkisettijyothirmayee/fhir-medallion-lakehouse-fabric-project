@@ -113,7 +113,7 @@ ________________________
 ![Logging Tables](screenshots/Monitor_Logging_Tables.png)
 
 ### Pipeline Execution
-![Pipeline](pipeline/FHIR_Data_Pipeline _Status_Success.png)
+![Pipeline](pipeline/FHIR_Data_Pipeline_Status_Success.png)
 
 ________________________
 
