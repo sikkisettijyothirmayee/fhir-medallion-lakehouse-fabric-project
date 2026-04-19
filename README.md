@@ -90,30 +90,6 @@ ________________________
 ##  Screenshots
 
 ### Raw Layer Tables
-screenshots/Raw_Layer_Data_Ingestion.png
-screenshots/Raw_Layer_Tables.png
-### Bronze Layer Tables
-screenshots/Bronze_Layer_Table.png
-screenshots/Bronze_Layer_Table.png
-### Silver Layer Tables
-screenshots/Silver_Layer_Table.png
-screenshots/Silver_Layer_Tables.png
-### Gold Layer Tables
-screenshots/Gold_Layer_Table.png
-screenshots/Gold_Layer_Tables.png
-### SCD Type2 Implemetation Tables
-screenshots/SCD_Type2_Table.png
-screenshots/SparkApplication&JobGraph.png
-### Monitor Logging Tables
-screenshots/Monitor_Logging_Table.png
-screenshots/Monitor_Logging_Tables.png
-### Pipeline Execution
-pipeline/FHIR_Data_Pipeline _Status_Success.png
-________________________
-
-## 📸 Screenshots
-
-### Raw Layer Tables
 ![Raw Data Ingestion](screenshots/Raw_Layer_Data_Ingestion.png)
 ![Raw Tables](screenshots/Raw_Layer_Tables.png)
 
@@ -138,6 +114,9 @@ ________________________
 
 ### Pipeline Execution
 ![Pipeline](pipeline/FHIR_Data_Pipeline _Status_Success.png)
+
+________________________
+
 
 ##  How to Run
 1. Open notebook in Microsoft Fabric
