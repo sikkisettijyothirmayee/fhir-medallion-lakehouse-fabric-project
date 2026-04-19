@@ -111,6 +111,34 @@ screenshots/Monitor_Logging_Tables.png
 pipeline/FHIR_Data_Pipeline _Status_Success.png
 ________________________
 
+## 📸 Screenshots
+
+### Raw Layer Tables
+![Raw Data Ingestion](screenshots/Raw_Layer_Data_Ingestion.png)
+![Raw Tables](screenshots/Raw_Layer_Tables.png)
+
+### Bronze Layer Tables
+![Bronze Table](screenshots/Bronze_Layer_Table.png)
+
+### Silver Layer Tables
+![Silver Table](screenshots/Silver_Layer_Table.png)
+![Silver Tables](screenshots/Silver_Layer_Tables.png)
+
+### Gold Layer Tables
+![Gold Table](screenshots/Gold_Layer_Table.png)
+![Gold Tables](screenshots/Gold_Layer_Tables.png)
+
+### SCD Type2 Implementation
+![SCD Table](screenshots/SCD_Type2_Table.png)
+![Spark Job Graph](screenshots/SparkApplication&JobGraph.png)
+
+### Monitor Logging Tables
+![Logging Table](screenshots/Monitor_Logging_Table.png)
+![Logging Tables](screenshots/Monitor_Logging_Tables.png)
+
+### Pipeline Execution
+![Pipeline](pipeline/FHIR_Data_Pipeline _Status_Success.png)
+
 ##  How to Run
 1. Open notebook in Microsoft Fabric
 2. Run all notebook cells
