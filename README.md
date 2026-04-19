@@ -87,23 +87,28 @@ ________________________
 
 ________________________
 
-## 📸 Screenshots
+##  Screenshots
 
-### Raw Layer
-![Raw](screenshots/raw.png)
-
-### Bronze Layer
-![Bronze](screenshots/bronze.png)
-
-### Silver Layer
-![Silver](screenshots/silver.png)
-
-### Gold Layer
-![Gold](screenshots/gold.png)
-
+### Raw Layer Tables
+screenshots/Raw_Layer_Data_Ingestion.png
+screenshots/Raw_Layer_Tables.png
+### Bronze Layer Tables
+screenshots/Bronze_Layer_Table.png
+screenshots/Bronze_Layer_Table.png
+### Silver Layer Tables
+screenshots/Silver_Layer_Table.png
+screenshots/Silver_Layer_Tables.png
+### Gold Layer Tables
+screenshots/Gold_Layer_Table.png
+screenshots/Gold_Layer_Tables.png
+### SCD Type2 Implemetation Tables
+screenshots/SCD_Type2_Table.png
+screenshots/SparkApplication&JobGraph.png
+### Monitor Logging Tables
+screenshots/Monitor_Logging_Table.png
+screenshots/Monitor_Logging_Tables.png
 ### Pipeline Execution
-![Pipeline](pipeline/pipeline.png)
-
+pipeline/FHIR_Data_Pipeline _Status_Success.png
 ________________________
 
 ##  How to Run
